@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A high school student from Türkiye</h3>
 
-- 🌱 I’m currently learning **Python,JavaScript,Flutter**
+- 🌱 I’m currently learning **Python,JavaScript**
 
 - 📫 How to reach me **alperakt3kin@gmail.com**
 
